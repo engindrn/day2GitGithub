@@ -14,6 +14,7 @@ public class Day2_GitGithub {
  yalnız git push komutunu diirekt kullanmak istersek 1 kez
          git remote add origin adress
          git push -u origin master
+  6-) git pull --> Remote (yani uzak repo) dosyalarımızı güncellemek için kullanılır        
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
 not: git log --oneline ; commitlerimdeki yani versiyonlarımdaki durumu gösterir
