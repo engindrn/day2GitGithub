@@ -10,8 +10,8 @@ public class Day2_GitGithub {
  4-) git commiit -m "mesaj" --> Staging area'dan commit stora
  dosyalarımı göndermek için kullanılır
  (commit yani versiyon yani sürüm oluşturmuş olurum)
- 6-)git log --oneline ; commitlerimdeki yani versiyonlarımdaki durumu gösterir
- 7-) git push --> Uzak repo'ya(yani remote - GitHub)
+ 5-)git log --oneline ; commitlerimdeki yani versiyonlarımdaki durumu gösterir
+ 6-) git push --> Uzak repo'ya(yani remote - GitHub)
   göndermek için kullandıgımız kod
  yalnız git push komutunu diirekt kullanmak istersek 1 kez
          git remote add origin adress
