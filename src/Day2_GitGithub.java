@@ -18,7 +18,7 @@ public class Day2_GitGithub {
          git push -u origin master
 7-) git pull --> Remote (yani uzak repo) dosyalarımızı güncellemek için kullanılır.
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
-kullanırız
+kullanırız.
 
   */
     }
