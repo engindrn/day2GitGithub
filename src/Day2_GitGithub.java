@@ -6,10 +6,11 @@ public class Day2_GitGithub {
  ilişkilendirmek için kullanılır
  2-) git add . --> Working space'den (yani yerel) dosyalarımı staging area'ya
  (yani commitlemek için beklenen yer) gönderir
- 3-) git commiit -m "mesaj" --> Staging area'dan commit stora
+ 3-) git status --> working space ve staging area daki durumu gösterir
+ 4-) git commiit -m "mesaj" --> Staging area'dan commit stora
  dosyalarımı göndermek için kullanılır
  (commit yani versiyon yani sürüm oluşturmuş olurum)
- 4-) git push --> Uzak repo'ya(yani remote - GitHub)
+ 5-) git push --> Uzak repo'ya(yani remote - GitHub)
   göndermek için kullandıgımız kod
  yalnız git push komutunu diirekt kullanmak istersek 1 kez
          git remote add origin adress
